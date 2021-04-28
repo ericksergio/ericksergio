@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericksergio
-- 👀 I’m interested in software development 
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Java, Android and MySql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
