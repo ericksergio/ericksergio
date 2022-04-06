@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ericksergio
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Java, Android and MySql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web/mobile development
+- 🌱 I’m currently learning HTML CSS and JavaScript 
+- 💞️ I’m looking to collaborate on projects that makes me usefull
+- 📫 How to reach me @erick_sergio_ at Instagram
 
 <!---
 ericksergio/ericksergio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
